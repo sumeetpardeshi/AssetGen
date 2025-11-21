@@ -1,0 +1,7 @@
+{
+  "name": "RetailGen Assets",
+  "description": "Generate professional retail marketing assets by combining product images with AI-generated models and scenarios.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
